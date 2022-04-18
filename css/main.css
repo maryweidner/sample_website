@@ -4,3 +4,22 @@
 .nav-spacing {
     margin: 0 0 0 10px;
 }
+.image-link {
+    text-decoration: none;
+}
+.table-padding {
+    padding: 10px;
+}
+.header-style {
+    text-align: center; 
+    margin: 0 0 80px;
+}
+.text-align-center {
+    text-align: center;
+}
+.moby-container {
+    width: 500px; 
+    margin: 20px auto; 
+    padding: 30px; 
+    background-color: #fafafa;
+}
